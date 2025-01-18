@@ -25,13 +25,13 @@
 
 <h3 align="left">Featured Projects:</h3>
 
-- Sentiment Analysis using K-Means Clustering and Neural Networks: [GitHub Repo](https://github.com/Abhishekaher11/Assessing-Interdependencies-and-Forecasting-in-Financial-Time-Series-?tab=readme-ov-file#assessing-interdependencies-and-forecasting-in-financial-time-series-)
+- Sentiment Analysis using K-Means Clustering and Neural Networks: [GitHub Repo]()
   
 - Analyzing the Relationship Between Crime Rates and Weather Conditions in Colchester: [GitHub Repo](#)
  
--The Performance Analysis of Major League Baseball Players Using Advanced Statistical Analysis
+-The Performance Analysis of Major League Baseball Players Using Advanced Statistical Analysis: [GitHub Repo](#)
 
--Assessing Interdependencies and Forecasting in Financial Time Series: A Granger Causality and Machine Learning Approach
+-Assessing Interdependencies and Forecasting in Financial Time Series: A Granger Causality and Machine Learning Approach: [GitHub Repo]((https://github.com/Abhishekaher11/Assessing-Interdependencies-and-Forecasting-in-Financial-Time-Series-?tab=readme-ov-file#assessing-interdependencies-and-forecasting-in-financial-time-series-))
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
