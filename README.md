@@ -29,9 +29,9 @@
   
 - Analyzing the Relationship Between Crime Rates and Weather Conditions in Colchester: [GitHub Repo](https://github.com/Abhishekaher11/Analyzing-the-Relationship-Between-Crime-Rates-and-Weather-Conditions-in-Colchester)
  
--The Performance Analysis of Major League Baseball Players Using Advanced Statistical Analysis: [GitHub Repo](#)
+- The Performance Analysis of Major League Baseball Players Using Advanced Statistical Analysis: [GitHub Repo](#)
 
--Assessing Interdependencies and Forecasting in Financial Time Series: A Granger Causality and Machine Learning Approach: [GitHub Repo]((https://github.com/Abhishekaher11/Assessing-Interdependencies-and-Forecasting-in-Financial-Time-Series-?tab=readme-ov-file#assessing-interdependencies-and-forecasting-in-financial-time-series-))
+- Assessing Interdependencies and Forecasting in Financial Time Series: A Granger Causality and Machine Learning Approach: [GitHub Repo]((https://github.com/Abhishekaher11/Assessing-Interdependencies-and-Forecasting-in-Financial-Time-Series-?tab=readme-ov-file#assessing-interdependencies-and-forecasting-in-financial-time-series-))
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
