@@ -1,56 +1,39 @@
-# Abhishekaher
-Hello World, this is my profile
-# Hi there! 👋 I'm Abhishek Aher
+<h1 align="center">Hi 👋, I'm Abhishek Aher</h1>
+<h3 align="center">A passionate Data Scientist from India, currently in the UK</h3>
 
-Welcome to my GitHub profile! I am a passionate and motivated Computer Science graduate currently pursuing a Master's in Data Science and its Applications at the University of Essex, United Kingdom. With hands-on experience in software development, IT services, and data science, I thrive in solving challenging problems and building impactful solutions.
+- 🌱 Currently learning **Data Science, Machine Learning, and AI**
+- 🔭 Working on **Predictive Analytics and Visualization Projects**
+- 💬 Ask me about **Python, Machine Learning, or Data Analysis**
+- 📫 Reach me at **abhishekaher1106@gmail.com**
 
-## 💻 About Me
-- 🎓 **Education:**
-  - **Master's in Data Science and its Applications** - University of Essex (2024 - 2025)
-  - **Bachelor of Engineering in Computer Science** - R.H. Sapat College of Engineering, Nashik (2023, CGPA: 8.01)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhishekaher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekaher" height="30" width="40" /></a>
+<a href="https://github.com/abhishekaher" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
+<a href="https://instagram.com/abhishekaher11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekaher11" height="30" width="40" /></a>
+</p>
 
-- 👨‍💻 **Professional Experience:**
-  - **Junior Software Developer** @ Techno Web Solutions (Aug 2023 – Dec 2023)
-    - Developed and maintained web applications, improving functionality and user experience.
-    - Optimized backend processes and collaborated with cross-functional teams.
-    - Leveraged Git for version control and debugging.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-  - **Associate Software Engineer** @ Techno Web Solutions (May 2023 – Aug 2023)
-    - Built responsive web applications with HTML, CSS, JavaScript, and SQL.
-    - Enhanced backend database queries for improved system performance.
+<h3 align="left">Featured Projects:</h3>
 
-  - **Web Development Intern** @ Two Waits (Feb 2022)
-    - Designed and developed static landing pages for a gym.
-    - Created user-friendly forms for seamless customer data collection.
+- Sentiment Analysis using K-Means Clustering and Neural Networks: [GitHub Repo](#)
+  
+- Analyzing the Relationship Between Crime Rates and Weather Conditions in Colchester: [GitHub Repo](#)
+ 
+-The Performance Analysis of Major League Baseball Players Using Advanced Statistical Analysis
 
-- 🏆 **Achievements:**
-  - State-level player in Cricket, Baseball, and Football.
-  - Elected Sports Secretary of my Engineering College for four consecutive years.
+-Assessing Interdependencies and Forecasting in Financial Time Series: A Granger Causality and Machine Learning Approach
 
-- 🌟 **Hobbies and Interests:**
-  - Sports: Cricket, Football, Baseball, Softball, and Athletics.
-  - Exploring data-driven solutions and building innovative projects.
-
-## 🛠 Skills
-- **Programming Languages:** Python, Java, SQL, C, C++
-- **Web Development:** HTML, CSS, JavaScript
-- **Data Science Tools:** Pandas, NumPy, scikit-learn
-- **Version Control:** Git
-- **Soft Skills:** Team collaboration, problem-solving, communication
-
-## 📜 Certifications
-- C, C++, Core Java
-- HTML and CSS (Pirple.com)
-- Python for Everybody (Coursera)
-- SQL Introduction (Codecademy)
-
-## 📂 Projects
-### Anti-Theft Bike IoT-Based System
-- Developed an IoT-based anti-theft system with features like sign-up, login, admin panel, and bike control functions.
-- Integrated with C++ for device linking and used Android Studio for app development.
-
-## 🌐 Let's Connect
-- **Email:** [abhishekaher1106@gmail.com](mailto:abhishekaher1106@gmail.com)
-- **LinkedIn:** [linkedin.com/in/abhishek-aher-249304230](https://linkedin.com/in/abhishek-aher-249304230)
-
-Feel free to explore my repositories and projects! I'm always excited to collaborate and learn new things. 🚀
+<h3 align="left">My GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekaher&show_icons=true&locale=en" alt="abhishekaher" />
+</p>
