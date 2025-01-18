@@ -25,7 +25,7 @@
 
 <h3 align="left">Featured Projects:</h3>
 
-- Sentiment Analysis using K-Means Clustering and Neural Networks: [GitHub Repo](#)
+- Sentiment Analysis using K-Means Clustering and Neural Networks: [GitHub Repo](https://github.com/Abhishekaher11/Assessing-Interdependencies-and-Forecasting-in-Financial-Time-Series-?tab=readme-ov-file#assessing-interdependencies-and-forecasting-in-financial-time-series-)
   
 - Analyzing the Relationship Between Crime Rates and Weather Conditions in Colchester: [GitHub Repo](#)
  
